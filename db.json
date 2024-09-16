@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "a title",
+      "body": "lorem"
+    },
+    {
+      "id": 4,
+      "title": "a title",
+      "body": "lorem"
+    },
+    {
+      "id": 5,
+      "title": "penis",
+      "body": "penis"
+    },
+    {
+      "id": 6,
+      "title": "a title",
+      "body": "lorem"
+    },
+    {
+      "id": 7,
+      "title": "a title",
+      "body": "lorem"
+    },
+    {
+      "title": "213123",
+      "body": "213123",
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
